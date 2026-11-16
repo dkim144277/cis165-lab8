@@ -14,7 +14,7 @@ Inputs and expected results:
 * Winning [7, 4, 9, 1, 3], Player [0, 0, 0, 0, 0] = 0 matches
 * Winning [1, 1, 2, 2, 3], Player [1, 2, 2, 3, 3] = 3 matches
 * Winning [1, 2, 3, 4, 5], Player [1, 2, 3, 5, 5] = 3 matches
-* Winning [9, 3, 0, 0, 6], Player [7, 6, 5, 4, 3] = 3 matches
+* Winning [9, 3, 0, 0, 6], Player [7, 6, 5, 4, 3] = 3 matches  
 Actual results:
 1. 5 matches
 2. 0 matches
